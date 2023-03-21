@@ -1,0 +1,144 @@
+{"menu":[
+    {
+        "id":1,
+        "nombre":"hamburguesa",
+        "descripcion":"doble carne,tocino,lechuga,tomate,cebolla,aguacate",
+        "precio":100,
+        "imagen":"img/hamburguesa.jpg"
+    },
+    {
+        "id":2,
+        "nombre":"Tacos",
+        "descripcion":"es una tortilla con bistec y cilantro,cebolla y salsa verde o roja",
+        "precio":60,
+        "imagen":"img/tacos.jpg"
+        },
+        {
+            "id":3,
+            "nombre":"Helado",
+            "descripcion":"fresas y leche ",
+            "precio":32.50,
+            "imagen":"img/fresa.jpg"
+        },
+        {
+            "id":4,
+            "nombre":"pay de queso",
+            "descripcion":"pay de queso con base de galleta maria se le puedea agregar moras",
+            "precio":20.99,
+            "imagen":"img/pay.jpg"
+        },
+        {
+            "id":5,
+            "nombre":"pizza",
+            "descripcion":"pizza de peperoni buena para comer con amigos",
+            "precio":80,
+            "imagen":"img/pizza.jpg"
+        },
+        {
+            "id":6,
+            "nombre":"burritos",
+            "descripcion":"tortilla de harina con frijoles,queso,chile jalapeño y carne",
+            "precio":26.50,
+            "imagen":"img/burritos us.jpg"
+        },
+        {
+            "id":7,
+            "nombre":"sincronizadas",
+            "descripcion":"tortilla de arina con frijoles,queso rallado,bistec,trompo,aguacate,cebolla,tomate y lechuga",
+            "precio":95,
+            "imagen":"img/sincronizada.jpg"
+        },
+        {
+            "id":8,
+            "nombre":"tamales",
+            "descripcion":"tamalas de hoja de mais de prollo y frijoles",
+            "precio":15,
+            "imagen":"img/tamales.jpg"
+        },
+        {
+            "id":9,
+            "nombre":"chiles rellenos",
+            "descripcion":"chile poblano relleno de carnes y queso",
+            "precio":35,
+            "imagen":"img/chiles.jpg"
+        },
+        {
+            "id":10,
+            "nombre":"mole",
+            "descripcion":"pollo con arroz y tortillas",
+            "precio":56.90,
+            "imagen":"img/mole.jpg"
+        },
+        {
+            "id":11,
+            "nombre":"frijoles charos",
+            "descripcion":"frijoles con tocoino,cuero,chile,cebolla,tomate,chile",
+            "precio":20,
+            "imagen":"img/frijoles.jpg"
+        },
+        {
+            "id":12,
+            "nombre":"cafe",
+            "descripcion":"cafe puede ser normal amargo con leche y azucar",
+            "precio":15.50,
+            "imagen":"img/cafe.jpg"
+        },
+        {
+            "id":13,
+            "nombre":"licuado de frutas",
+            "descripcion":"fresas,naranjas,uvas,platano,moras,moras azules",
+            "precio":19.50,
+            "imagen":"img/licuados.jpg"
+        },
+        {
+            "id":14,
+            "nombre":"refrescos",
+            "descripcion":"cocacola,pepsi,fanta,sprite",
+            "precio":16.50,
+            "imagen":"img/sodas.jpg"
+        },
+        {
+            "id":15,
+            "nombre":"papas fritas",
+            "descripcion":"papas y kepchupt",
+            "precio":16,
+            "imagen":"img/papafrita.jpg"
+        },
+        {
+            "id":16,
+            "nombre":"ensalada",
+            "descripcion":"vegetales,frutas",
+            "precio":50,
+            "imagen":"img/ensalada.jpg"
+        },
+        {
+            "id":17,
+            "nombre":"sopa de pollo",
+            "descripcion":"pollo, con zanahoria y hierbas",
+            "precio":28.50,
+            "imagen":"img/sopa.jpg"
+        },
+        {
+            "id":18,
+            "nombre":"enchiladas",
+            "descripcion":"tortillas de maiz con pollo en vueltas con salsa roja o verde y sobre ellas queso y aguacate",
+            "precio":36.20,
+            "imagen":"img/enchilada.jpg"
+        },
+        {
+            "id":19,
+            "nombre":"choco flan",
+            "descripcion":"chocolate sobre faln chocoflan",
+            "precio":30,
+            "imagen":"img/flan.jpg"
+        },
+        {
+            "id":20,
+            "nombre":"cupcakes",
+            "descripcion":"cupcake de chocolate con vetun de chocolate",
+            "precio":26.50,
+            "imagen":"img/cupcake.jpg"
+        }
+            
+]   
+    }
